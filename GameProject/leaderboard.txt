@@ -1,0 +1,8 @@
+Player|Score
+(Hardcore)Adam|20
+(Hardcore)Peter|17
+John|15
+(Hardcore)L|2
+(Hardcore)Best|0
+J|-40
+(Hardcore)TrueBest|-40
